@@ -1,0 +1,13 @@
+﻿  Engine.cpp
+c:\users\ilich\source\repos\wrapper\wrapper.h(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\ilich\source\repos\wrapper\wrapper.h(35): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+c:\users\ilich\source\repos\wrapper\wrapper.h(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\ilich\source\repos\wrapper\wrapper.h(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\ilich\source\repos\wrapper\main.cpp(16): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Params.cpp
+  Wrapper.cpp
+c:\users\ilich\source\repos\wrapper\wrapper.h(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\ilich\source\repos\wrapper\wrapper.h(35): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Wrapper.vcxproj -> C:\Users\ILICH\source\repos\Wrapper\Debug\Wrapper.exe
